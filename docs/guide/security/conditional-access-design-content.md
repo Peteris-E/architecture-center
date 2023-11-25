@@ -26,7 +26,7 @@ This diagram shows Conditional Access and related elements that can help protect
 
 Conditional Access has mainly been focusing on protecting access from interactive humans to resources. As the number of non-human identities grow, access from these must be considered as well. Microsoft offers two features related to protecting access to and from workload identities.
 - Protecting access to applications represented by a workload identity that is not selectable in the Microsoft Entra Conditional Access portal. This option is supported by using security attributes. Assigning a security attribute to workload identities and selecting these in the Microsoft Entra Conditional Access portal is part of Microsoft Entra ID P1 license.
-- Protecting access to resources initiated by workload identities (service principals). A new feature "Microsoft Entra Workload Identies" is offered in a separate license that supports this scenario. It includes lifecycle management of workload identities including protecting access to resources with Conditional Access.
+- Protecting access to resources initiated by workload identities (service principals). A new feature "Microsoft Entra Workload Identities" is offered in a separate license that supports this scenario. It includes lifecycle management of workload identities including protecting access to resources with Conditional Access.
 
 ### Enterprise access model
 
